@@ -6,7 +6,7 @@ This repository is made for my second homework assigment for Bootstrap.
 
 ## Link to GitHub Page
 
-https://robertsantos-dfw.github.io/02-Homework/
+https://robertsantos-dfw.github.io/Portfolio_RS/
 
 ### Project Description
 
