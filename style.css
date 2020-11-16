@@ -1,8 +1,8 @@
 /* navbar{
     
 } */
-.pf {
 
+.pf {
     position: relative;
     float: left;
     text-align: center;
@@ -18,18 +18,20 @@
     top: 70%;
     left: 50%;
     transform: translate(-50%, -50%);
-    background-color: teal;
+    background-color: black;
     width: 320px;
     height: 70px;
     line-height: 70px;
     font-size: 30px;
     font-family: Georgia, "Times New Roman", Times, serif;
 }
+
 .pftitle a {
     color: white;
     text-decoration: none;
-  }
-  .pftitle a:hover {
+}
+
+.pftitle a:hover {
     background-color: white;
-    color: teal;
-  }
+    color: black;
+}
