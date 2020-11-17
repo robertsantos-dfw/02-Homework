@@ -8,6 +8,8 @@ This repository is made for my second homework assigment for Bootstrap.
 
 https://robertsantos-dfw.github.io/Portfolio_RS/
 
+![](./Assets/Images/ss1.PNG?raw=true "About Me Screen Shot")
+
 ### Project Description
 
 The projects purpose is to maximize bootstrap's abilities to create a website that will render on a variety of devices and window screens/sizes.
